@@ -1,0 +1,23 @@
+table {
+    border : 1px solid black;
+    border-collapse: collapse;
+    float: center;
+    max-width:1%;
+    max-height: 1%;
+    margin : 1.5em auto 5em auto;   
+    overflow: hidden; 
+}
+
+body {
+    background-color: rgb(200, 243, 230); 
+}
+
+td {
+    background-color: rgb(221, 233, 193);
+    border:  1px solid black;
+    display: table-cell;
+    overflow: hidden; 
+    text-align: center;
+    padding : 40px;
+    margin : 0;        
+}
